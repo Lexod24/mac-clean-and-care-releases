@@ -1,0 +1,24 @@
+Mac Clean & Care: Freeware License
+
+Copyright (c) 2026 Appointly. All rights reserved.
+
+Permission is granted, free of charge, to any person to download, install and use the
+Mac Clean & Care application ("the Software") in the form distributed in this repository,
+on any number of Macs they own or control, for personal or business use.
+
+You may share unmodified copies of the release archives published here, free of charge,
+provided this license and the copyright notice are included.
+
+You may not sell the Software, distribute modified versions, or reverse engineer, decompile or
+disassemble it, except to the extent that applicable law expressly permits this despite
+this limitation.
+
+The Software includes Sparkle (https://sparkle-project.org), distributed under the MIT
+License (Copyright (c) 2006-2013 Andy Matuschak and other contributors). Its full license
+is included inside the application bundle (Contents/Resources/Sparkle-LICENSE.txt).
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL APPOINTLY BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
